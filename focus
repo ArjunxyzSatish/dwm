@@ -1,0 +1,3 @@
+
+	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
+	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
